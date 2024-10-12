@@ -1,4 +1,4 @@
-@@ -1,51 +1,53 @@
+
 # Guide to Bug Bounty Hunting
 - [Guide to Bug Bounty Hunting](#guide-to-bug-bounty-hunting)
   * [Mindset](#mindset)
